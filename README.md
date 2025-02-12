@@ -1,4 +1,4 @@
-# Hangman-Game
+# Hangman-Game-unrealeased
 
 DESIGNED USING QTCreator || C || C++ 
 
