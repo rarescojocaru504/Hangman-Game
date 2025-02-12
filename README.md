@@ -6,13 +6,13 @@ Hangman is a classic word-guessing game where the player tries to uncover a hidd
 
 INSTALLATION GUIDE : 
 
-	Download the latest release in this repository and unzip it.After that ollow the steps below based on your OS :
+	Download the latest release in this repository and unzip it.After that follow the steps below based on your OS :
 	MACOS : Press "hangman.dmg" and move it to Applications, after that your ganme should work.
  	WINDOWS : unreleased
   
 HOW TO PLAY :
 
- 	1.		Start a New Game
+ 	1.	Start a New Game
 	•	Click the “New Game” button to generate a new hidden word.
 	•	The word is displayed as * symbols, with each * representing a letter.
 	2.	Make a Guess
@@ -29,9 +29,8 @@ HOW TO PLAY :
 HOW TO CHANGE THE DICTIONARY :
 
 	The game uses a dictionary file named words.txt to randomly select words. You can edit this file to add, remove, or modify words.
-
-MACOS : Hangman.app/Contents/Resources/words.txt
-WINDOWS / LINUX : /path/to/executable/words.txt
+	MACOS : Hangman.app/Contents/Resources/words.txt
+	WINDOWS : /path/to/executable/words.txt
 
 
 
