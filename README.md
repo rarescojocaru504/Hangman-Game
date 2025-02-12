@@ -29,7 +29,8 @@ HOW TO PLAY :
 HOW TO CHANGE THE DICTIONARY :
 
 	The game uses a dictionary file named words.txt to randomly select words. You can edit this file to add, remove, or modify words.
-	MACOS : Hangman.app/Contents/Resources/words.txt
+	MACOS : hangman_files/build/Hangman_6.7.0/hangman.app (press right click and select "Show Package Contents")/Contents/MacOS/words.txt
+ 		hangman_files/build/Hangman_6.7.0/hangman.app (press right click and select "Show Package Contents")/Contents/Resources/words.txt
 	WINDOWS : /path/to/executable/words.txt
 
 
