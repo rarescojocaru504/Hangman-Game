@@ -7,7 +7,9 @@ Hangman is a classic word-guessing game where the player tries to uncover an eng
 INSTALLATION GUIDE : 
 
 	Download the latest release in this repository and unzip it.After that follow the steps below based on your OS :
-	MACOS : Run the .dmg file and move it to Applications,run this command in your terminal : xattr -cr ~/Downloads/Hangman_Beta1.dmg. 	This command unblocks your dmg from the macOS's security system and has to be done because I am an unregistered publisher, I am 	really sorry about this issue. After that your ganme should work.
+	MACOS : Run the .dmg file and move it to Applications,run this command in your terminal : xattr -cr ~/Downloads/Hangman_Beta1.dmg. 
+ 	This command unblocks your dmg from the macOS's security system and has to be done because I am an unregistered publisher, 
+  	I am 	really sorry about this issue. After that your ganme should work.
  	WINDOWS : Run the .exe file.
   
 HOW TO PLAY :
